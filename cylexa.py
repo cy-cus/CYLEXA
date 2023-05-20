@@ -339,11 +339,11 @@ class ChatbotAssistant(object):
                     elif "search youtube and" in user_input or "youtube video" in user_input or "search a video" in user_input or "search for a video" in user_input or "open youtube" in user_input or "play on youtube" in user_input or "play video" in user_input or "play a video" in user_input or "play in youtube" in user_input or "watch on youtube" in user_input or "play another video" in user_input or "video on youtube" in user_input or "video in youtube" in user_input:
                         self.search_and_play()
                         response = "Enjoy the video!"
-                    elif "stop video" in user_input or "stop a video" in user_input or "stop the video" in user_input or "stop music" in user_input or "close browser" in user_input or "close the browser" in user_input or "exit the browser" in user_input or "cancel song" in user_input or "stop playing" in user_input or "cancel video" in user_input or "not the song" in user_input or "not the video" in user_input or "stop song" in user_input or "stop the song" in user_input or "stop this song" in user_input or "stop this video" in user_input or "stop the video" in user_input:
+                    elif "stop video" in user_input or "stop a video" in user_input or "stop the video" in user_input or "stop music" in user_input or "close browser" in user_input or "close the browser" in user_input or "exit the browser" in user_input or "cancel song" in user_input or "stop playing" in user_input or "cancel video" in user_input or "not the song" in user_input or "not the video" in user_input or "stop song" in user_input or "stop the song" in user_input or "stop this song" in user_input or "stop this video" in user_input or "stop the video" in user_input or "stop browser" in user_input or "stop my browser" in user_input:
                         self.close_browser()
                         stopping = "Okay, successfully stopped"
                         self.speak_text(stopping)
-                    elif "open browser" in user_input or "open the browser" in user_input or "open a browser" in user_input or "to search the internet" in user_input:
+                    elif "open browser" in user_input or "open my browser" in user_input or "open the browser" in user_input or "open a browser" in user_input or "to search the internet" in user_input:
                         self.open_default_browser()
                         open_bro = "Sure,  browser opened"
                         self.speak_text(open_bro)
