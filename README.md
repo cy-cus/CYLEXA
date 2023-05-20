@@ -15,7 +15,7 @@ $$ |  $$\   $$ |   $$ |     $$ |     $$  /\$$\$$ |  $$ |      $$ |  $$ | $$ |   
 
 
 
-CYLEXA AI  Assistant is a versatile virtual assistant built by me, it is a python based program and can perform various tasks and provide real-time information. It uses OpenAI's GPT-3.5 language model to generate responses based on user input, enabling natural language conversations. With speech recognition and text-to-speech capabilities, the assistant can interact with the user through voice commands and responses. Whether you need to study,  play music, search and play YouTube videos, set reminders, list your reminders, open your web browser  or perform web searches directly through word of command, CYLEXA AI  Assistant is here to help.
+CYLEXA AI  Assistant is a versatile virtual assistant built by me, it is a python based program that can perform various tasks and provide real-time information. It uses OpenAI's GPT-3.5 language model to generate responses based on user input, enabling natural language conversations. With speech recognition and text-to-speech capabilities, the assistant can interact with the user through voice commands and responses. Whether you need to study,  play music, search and play YouTube videos, set reminders, list your reminders, open your web browser  or perform web searches directly through word of command, CYLEXA AI  Assistant is here to help.
 
 ## Installation and Setup
 
