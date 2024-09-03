@@ -4,3 +4,4 @@ pyttsx3==2.90
 pywhatkit==5.4
 SpeechRecognition==3.9.0
 configparser==5.3.0
+configparser==5.3.0
